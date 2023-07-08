@@ -4,3 +4,4 @@ redis
 pytest
 httpx
 requests
+pytest
